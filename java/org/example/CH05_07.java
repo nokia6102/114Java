@@ -21,7 +21,7 @@ public class CH05_07 {
 //        }
 
         char r;
-        r = (score>=90)?'A':(score>80)?'B':(score>70)?'C':'D';
+        r = (score>=90)?'A':(score>=80)?'B':(score>=70)?'C':'D';
         System.out.println("Level "+r);
 
         sc.close();

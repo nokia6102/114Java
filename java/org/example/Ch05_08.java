@@ -16,16 +16,16 @@ public class Ch05_08 {
                 System.out.println("Level A");
                 break; //不可以沒有
             case 8:
-                System.out.println("Level A");
+                System.out.println("Level B");
                 break;
             case 7:
-                System.out.println("Level A");
+                System.out.println("Level C");
                 break;
             case 6:
-                System.out.println("Level A");
+                System.out.println("Level D");
                 break;
             default:
-                System.out.println("Level E");
+                System.out.println("Level F");
                 break;
         }
         sc.close();
