@@ -3,7 +3,7 @@ package org.example;
 
 import java.util.Scanner;
 
-public class Ch05_07 {
+public class CH05_07 {
     public static void main(String[] args) {
         int score;
         Scanner sc = new Scanner(System.in);
